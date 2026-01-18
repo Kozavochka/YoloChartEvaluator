@@ -1,0 +1,6 @@
+/dataset_yolo/annotations
+/dataset_yolo/images
+/dataset_yolo/labels
+/venv
+/runs
+dataset_yolo.zip
