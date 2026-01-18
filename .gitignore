@@ -4,3 +4,6 @@
 /venv
 /runs
 dataset_yolo.zip
+/evaluate_imgs
+/lines_seg
+/runs_lines
