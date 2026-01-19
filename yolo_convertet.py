@@ -72,7 +72,7 @@ def coco_to_yolo_pose(coco_json_path, images_dir, out_labels_dir, pad_px=20):
 
             
 if __name__ == "__main__":
-    base = "dataset_yolo"
+    base = "dataset_root/axes_pose"
 
     coco_to_yolo_pose(
         coco_json_path=os.path.join(base, "annotations", "train.json"),
